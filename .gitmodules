@@ -1,0 +1,3 @@
+[submodule "front-react-socketio-client"]
+	path = front-react-socketio-client
+	url = https://github.com/FaihdP/front-react-socketio-client
